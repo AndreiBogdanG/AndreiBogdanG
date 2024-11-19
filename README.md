@@ -2,6 +2,6 @@
 - 👀 I’m interested in treasure hunt and room escape games, puzzles and more.
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS.
 - 💞️ I’m looking to collaborate on any project that might require my help.
-- 📫 How to reach me: alcatraz0405 (at) yahoo (dot) com
+- 📫 How to reach me: a.bogdan.georgescu (at) gmail (dot) com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I developed my first game about 30 years ago, in the "BASIC" programming language, on a ZX Spectrum type computer.
